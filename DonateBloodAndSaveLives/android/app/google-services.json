@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589636854223",
+    "project_id": "donate-blood-and-save-lives",
+    "storage_bucket": "donate-blood-and-save-lives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589636854223:android:2058aba65be22baa67b2ba",
+        "android_client_info": {
+          "package_name": "com.donatebloodandsavelives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589636854223-tipl1aeg0h85f89au0f7b37a6moauurl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_XA8JNSATfNAWERSxwcqetFtZRs5Itw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589636854223-tipl1aeg0h85f89au0f7b37a6moauurl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
